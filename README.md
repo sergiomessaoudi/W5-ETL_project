@@ -3,7 +3,7 @@
 ![portada](https://cdn.educba.com/academy/wp-content/uploads/2019/05/What-is-ETL.jpg.webp)
 
 
-## Overview
+## Introducción
 
 The goal of this project is for you to practice what you have learned so far on this program. For this project, you will start with a data set of your choice. You will need to import it, use your newly-acquired skills to clean and process the data. You should demonstrate your proficiency with the tools we covered (functions, classes, list comprehensions, string operations, pandas, and error handling, etc.) in your functions.
 
@@ -12,7 +12,7 @@ The goal of this project is for you to practice what you have learned so far on 
 
 ---
 
-## Technical Requirements
+## Requerimientos técnicos
 
 The technical requirements for this project are as follows:
 
