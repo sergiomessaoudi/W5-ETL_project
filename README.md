@@ -43,10 +43,10 @@ The technical requirements for this project are as follows:
 - E) Create some reports containing valuable data from the dataset + enrichment. Some of the things you may do are:
   - Simply sumarize the data and do some basic statistics \(`mean`, `max`, `min`, `std`, etc.).
   - Do domain based statistics or data aggregations using `groupby()` .
-  - **LOTS AND LOTS** of plots, of all types and colors.
+
   - Go nuts with the investigation. 
 
-- F) The finished **report** must be a **very pretty** jupyter notebook, with text, clean code, meaningful outputs, plots and charts. Try telling a story with your data, that is, conduct us (the readers) through your findings and lead us into your conclusions.
+- F) The finished **report** must be a **very pretty** jupyter notebook, with text, clean code, meaningful outputs... Try telling a story with your data, that is, conduct us (the readers) through your findings and lead us into your conclusions.
   - _Note:_ The report jupyter **must** be separate from the code for cleaning, acquiring, processing data, etc. These may be in other jupyters or in `.py` modules. _Be not afraid to modulate 🎶_
 
 ## Summing up
