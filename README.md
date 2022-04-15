@@ -1,6 +1,6 @@
 # Project: ETL
 
-![portada](https://www.informatica.com/content/dam/informatica-com/en/images/misc/etl-process-explained-diagram.png)
+![portada](https://cdn.educba.com/academy/wp-content/uploads/2019/05/What-is-ETL.jpg.webp)
 
 
 ## Overview
